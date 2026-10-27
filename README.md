@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing SVG Header -->
-<a href="https://sojib-ahmed-portfolio.vercel.app" target="_blank">
+<a href="https://sojib-ahmed-developer.vercel.app/" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sojib+Ahmed;Full+Stack+Software+Developer;MERN+%26+Next.js+Specialist;Building+Scalable+%26+Cinematic+Web+Apps" alt="Typing SVG" />
 </a>
 
@@ -9,16 +9,22 @@
   <b>Passionate Full-Stack Developer specializing in modern JavaScript/TypeScript architectures, scalable backend services, and pixel-perfect high-performance user interfaces.</b>
 </p>
 
-<!-- Social & Contact Badges -->
+<!-- Top Quick Badges -->
 <p align="center">
-  <a href="https://sojib-ahmed-portfolio.vercel.app" target="_blank">
+  <a href="https://sojib-ahmed-developer.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/sojib-ahmed-shorif" target="_blank">
+  <a href="https://drive.google.com/file/d/1I_yOQ82k2LqFINo5RuR_tXVEzzwAZkGx/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/sojib-ahmed-shorif/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sojibahmedshorif25@gmail.com">
+  <a href="mailto:sojibahmedshorif998@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/share/16G2SwmtSFk/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
@@ -28,7 +34,7 @@
 
 ### 🚀 About Me
 
-- 💻 **Core Focus**: Designing and shipping end-to-end fullstack web applications with high concurrency, clean architecture, and intuitive UX.
+- 💻 **Core Focus**: Designing and shipping end-to-end fullstack web applications with clean architecture, high concurrency, and intuitive UX.
 - 🛠️ **Current Tech**: Deep diving into **React 19**, **Next.js 15 (App Router)**, **TypeScript**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, and **Redis**.
 - ⚡ **Engineering Principles**: Clean code, modular component patterns, robust REST APIs, secure JWT/Session authentication, and sub-second load times.
 - 🎯 **Goals**: Contributing to open-source, collaborating with innovative tech teams, and building impactful SaaS solutions.
@@ -84,7 +90,7 @@
 | :--- | :--- | :--- | :--- |
 | **Shopx BD Enterprise** | Next.js, Node.js, MongoDB, Redis, Tailwind CSS | Enterprise e-commerce with 0ms SWR caching, MFS automated payment verification, and multi-courier logistics integration. | [🔗 Live Demo](https://shopx-bd-enterprise.vercel.app) • [💻 Code](https://github.com/SojibTechHub/Shopx-BD-Enterprise) |
 | **Job Finder** | React, Tailwind, Express, BetterAuth, JWT | Full-featured startup & job opportunity discovery platform with role-based auth, dashboards, and application trackers. | [🔗 Live Demo](https://job-finder-client.vercel.app) • [💻 Code](https://github.com/SojibTechHub/Job-Finder-Client) |
-| **Sojib Ahmed Portfolio** | React 19, TypeScript, Three.js, GSAP, Gemini AI | Cinematic 3D portfolio featuring interactive Google Gemini conversational AI assistant, 3D graphics, and admin portal. | [🔗 Live Demo](https://sojib-ahmed-portfolio.vercel.app) • [💻 Code](https://github.com/SojibTechHub/Sojib-Ahmed-Portfolio) |
+| **Sojib Ahmed Portfolio** | React 19, TypeScript, Three.js, GSAP, Gemini AI | Cinematic 3D portfolio featuring interactive Google Gemini conversational AI assistant, 3D graphics, and admin portal. | [🔗 Live Demo](https://sojib-ahmed-developer.vercel.app/) • [💻 Code](https://github.com/SojibTechHub/Sojib-Ahmed-Portfolio) |
 | **Pet Adoption Platform** | React, Node.js, MongoDB, Express, Stripe | Community pet adoption system with verified listings, online donations, adoption workflows, and role analytics. | [🔗 Live Demo](https://pet-adoption-client.vercel.app) • [💻 Code](https://github.com/SojibTechHub/Pet-Adoption-Client) |
 | **InvestProp AI** | Next.js, Tailwind, Node.js, MongoDB | Smart property investment & valuation analytics dashboard with automated financial projections and market metrics. | [💻 Code](https://github.com/SojibTechHub/Investprop-Ai) |
 
@@ -105,13 +111,48 @@
 
 ---
 
-### 📫 Connect With Me
+### 📬 Contact & Online Profiles
+
+<table>
+  <tr>
+    <td align="center"><b>📧 Email</b></td>
+    <td><a href="mailto:sojibahmedshorif998@gmail.com">sojibahmedshorif998@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📱 Phone</b></td>
+    <td><a href="tel:01942791004">01942791004</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Portfolio</b></td>
+    <td><a href="https://sojib-ahmed-developer.vercel.app/" target="_blank">sojib-ahmed-developer.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📄 Resume / CV</b></td>
+    <td><a href="https://drive.google.com/file/d/1I_yOQ82k2LqFINo5RuR_tXVEzzwAZkGx/view?usp=sharing" target="_blank"><b>View Resume (Google Drive)</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>💼 LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/sojib-ahmed-shorif/" target="_blank">linkedin.com/in/sojib-ahmed-shorif</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🐙 GitHub</b></td>
+    <td><a href="https://github.com/SojibTechHub" target="_blank">github.com/SojibTechHub</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📘 Facebook</b></td>
+    <td><a href="https://www.facebook.com/share/16G2SwmtSFk/" target="_blank">facebook.com/share/16G2SwmtSFk</a></td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sojib-ahmed-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif25@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1I_yOQ82k2LqFINo5RuR_tXVEzzwAZkGx/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sojib-ahmed-developer.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojib-ahmed-shorif/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16G2SwmtSFk/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojibahmedshorif998@gmail.com)
 
 <br/>
 
